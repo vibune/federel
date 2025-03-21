@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Federel** is an open, federated protocol and proof-of-concept for a new type of AI-powered search and knowledge system. Instead of relying on centralized crawlers, ad-based ranking algorithms, or opaque data harvesting, Federel is built around:
+**Federel** is an open, federated protocol and proof-of-concept for a new type of AI-powered Internet search and knowledge system. Instead of relying on centralized crawlers, ad-based ranking algorithms, or opaque data harvesting, Federel is built around:
 
 - **Decentralized agents** that crawl and learn from web content browsed or published by real users.
 - **Federated sharing** of distilled knowledge — not raw data — between autonomous AI agents.
