@@ -2,6 +2,8 @@
 
 ## 🔐 Federel Trust Protocol
 
+> 📘 **Name Origin**: The name **Federel** comes from **Federated Relevancy** — a system where decentralized agents share AI-distilled knowledge based on relevance and verified ownership, not traditional rankings.
+
 Federel relies on a decentralized, DNS-based identity system to ensure that only **verified domain owners** can contribute distilled knowledge to the global knowledge pool. This mechanism helps:
 
 - Prevent content scraping and copyright violations
