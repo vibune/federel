@@ -65,7 +65,7 @@ Federel is a step toward a future where:
 
 ## 🤝 What You Can Do
 
-- Read the [Concept Document](./docs/concept.md)
+- Read the [Concept Document](./docs/CONCEPT.md)
 - Join our [Discussions](https://github.com/vibune/federel/discussions)
 - Share your ideas, code, or critiques
 - Help build the infrastructure for a more honest Internet
