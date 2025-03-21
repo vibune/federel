@@ -41,3 +41,37 @@ To sign off on a commit:
 
 ```bash
 git commit -s -m "Your message here"
+
+## 🧪 Code Style & Tools
+
+Please follow these basic guidelines when contributing code:
+
+- ✅ Use **Python 3.10+**
+- ✅ Format your code with [`black`](https://black.readthedocs.io/en/stable/)
+- ✅ Lint using [`flake8`](https://flake8.pycqa.org/)
+- ✅ Include **docstrings** for all public functions and classes
+- ✅ Write clear, concise comments for logic that isn’t immediately obvious
+
+## 🚀 Getting Started
+
+To contribute to Federel, follow these steps to set up your local development environment:
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/vibune/federel.git
+cd federel
+
+# 2. Create and activate a virtual environment
+python -m venv .venv
+source .venv/bin/activate  # On Windows, use: .venv\Scripts\activate
+
+# 3. Install development dependencies
+pip install -r requirements.txt
+
+
+🙏 Thanks
+
+Federel is an experiment in rethinking how humans — and their AIs — find and share knowledge.
+We’re glad you’re part of it.
+
+— The Federel Team
