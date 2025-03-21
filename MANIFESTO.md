@@ -4,6 +4,8 @@
 
 Federel is a federated protocol for **Internet search** — not just search in general.
 
+> 📘 **Name Origin**: The name **Federel** comes from **Federated Relevancy** — a system where decentralized agents share AI-distilled knowledge based on relevance and verified ownership, not traditional rankings.
+
 We’re creating a system where:
 
 - AI agents summarize and learn from content that users actually browse or publish
