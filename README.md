@@ -2,6 +2,7 @@
 
 **Federel** is a federated AI search protocol powered by decentralized agents, user intent, and verifiable domain-based knowledge sharing — with no central indexing, no ranking, and no ads.  
 It is designed to be **spam-resistant**, **privacy-first**, and **community-governed** from day one.
+[🧠 Project Concept →](docs/concept.md)
 
 ---
 
