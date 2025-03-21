@@ -11,7 +11,7 @@
 
 ## Motivation
 
-Search is broken. Traditional search engines:
+Internet search is broken. Traditional search engines:
 - Are vulnerable to SEO spam
 - Prioritize profit and ad-driven results
 - Index the web indiscriminately
@@ -19,7 +19,7 @@ Search is broken. Traditional search engines:
 
 Meanwhile, AI has emerged as a powerful tool for summarization, reasoning, and intent-matching — but it too suffers from hallucination, lack of provenance, and legal challenges when trained on unlicensed content.
 
-Federel proposes a new way:
+Federel proposes a new way to rethink Internet search:
 - Knowledge is gathered through **real user intent** and **agent-based discovery**.
 - Content is summarized and embedded **locally**.
 - Sharing is optional, traceable, and **accountable to the originator**.
@@ -31,7 +31,7 @@ Each user (or organization) runs a **local AI agent** that:
 - Crawls pages visited or owned by the user
 - Summarizes and embeds content
 - Builds a private semantic knowledge base
-- Optionally shares distilled knowledge into the global pool
+- Optionally shares distilled knowledge **only from websites they own**, as verified through their **Knowledge Publisher ID (KPID)** via DNS
 
 These agents can run:
 - On **self-hosted open-source servers** (for privacy and full control)
