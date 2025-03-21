@@ -89,10 +89,15 @@ This ensures:
 
 ## 📚 Summary
 
-Agents are the core of Federel’s decentralized architecture. They:
-- Provide summarization, verification, and local storage
-- Allow user-level filtering and contribution
-- Respect publishing authority via DNS and KPID
+Agents are the core of Federel’s decentralized architecture. Each agent can operate in one of two modes:
 
-This separation of roles enables a trustworthy, human-centered, and federated model for Internet search.
+- **Observer Mode**: Applies when visiting third-party domains. The agent collects, summarizes, and stores knowledge locally, and may provide feedback, but cannot publish.
+- **Publisher Mode**: Applies when visiting domains the user owns and has verified via KPID. The agent can summarize, sign, and publish knowledge into the federated pool.
+
+Agents also:
+- Respect publishing authority via DNS and KPID
+- Accept user input and feedback
+- Support AI-based personalization and social signals
+
+This dual-mode design supports a trustworthy, user-aligned, and decentralized model for Internet search.
 
