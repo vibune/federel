@@ -1,5 +1,7 @@
 # Federel
 
+> 📘 **Name Origin**: The name **Federel** comes from **Federated Relevancy** — a system where decentralized agents share AI-distilled knowledge based on relevance and verified ownership, not traditional rankings.
+
 **Federel** is a federated AI search protocol powered by decentralized agents, user intent, and verifiable domain-based knowledge sharing — with no central indexing, no ranking, and no ads.  
 It is designed to be **spam-resistant**, **privacy-first**, and **community-governed** from day one.
 [🧠 Project Concept →](docs/CONCEPT.md)
